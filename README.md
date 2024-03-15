@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Run the local JSON server
 
-npx json-server data/db.json --port <desired port number>
+npx json-server data/db.json --port 'desired port number'
 
 
 
